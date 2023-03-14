@@ -1,0 +1,19 @@
+.done {
+  text-decoration: line-through;
+}
+
+.done textarea {
+  text-decoration: none !important;
+}
+
+.empty {
+  color: darkgray;
+}
+
+.media-head button {
+  font-size: 18px;
+}
+
+.btn-toggle {
+  background-color: white;
+}
